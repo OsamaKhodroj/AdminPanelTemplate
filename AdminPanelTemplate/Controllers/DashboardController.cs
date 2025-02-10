@@ -6,6 +6,7 @@ namespace AdminPanelTemplate.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
     }
