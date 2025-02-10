@@ -8,6 +8,7 @@ namespace AdminPanelTemplate.Controllers
         {
 
             return View();
+
         }
     }
 }
